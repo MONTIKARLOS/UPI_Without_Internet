@@ -29,7 +29,7 @@ The system shows three things working end to end:
 2. **Even if the same payment reaches the backend simultaneously through multiple bridge nodes, it settles exactly once.** (Idempotency via atomic compare-and-set on the ciphertext hash.)
 3. **A tampered or replayed packet is rejected** before it touches the ledger.
 
-You'll see all three in the dashboard.
+You'll see all three in the dashboard.      
 
 ---
 
