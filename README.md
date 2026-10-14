@@ -243,7 +243,7 @@ See `BridgeIngestionService.java` for the freshness check.
 
 ---
 
-## File-by-file walkthrough
+## File-by-file walkthrough.     
 
 ```
 upi-offline-mesh/
