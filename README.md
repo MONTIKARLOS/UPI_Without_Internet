@@ -33,7 +33,7 @@ You'll see all three in the dashboard.
 
 ---
 
-## How to run it
+## How to run it.   
 
 ### Prerequisites
 
