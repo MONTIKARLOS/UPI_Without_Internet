@@ -42,7 +42,7 @@ You'll see all three in the dashboard.
 
 ### Run on Windows
 
-Open a terminal in the project folder and run:
+Open a terminal in the project folder and run:       
 
 ```cmd
 mvnw.cmd spring-boot:run
