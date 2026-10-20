@@ -28,7 +28,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-        <!-- Thymeleaf for the demo dashboard UI -->
+        <!-- Thymeleaf for the demo dashboard UI ------------>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
