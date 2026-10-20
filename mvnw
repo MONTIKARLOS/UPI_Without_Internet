@@ -6,7 +6,7 @@
 # (~60KB) from Maven Central into .mvn/wrapper/ and then use it to download
 # the full Maven distribution.
 #
-# Required: Java 17 or newer on PATH (or JAVA_HOME set).
+# Required: Java 17 or newer on PATH (or JAVA_HOME set).......
 # ----------------------------------------------------------------------------
 
 set -e
