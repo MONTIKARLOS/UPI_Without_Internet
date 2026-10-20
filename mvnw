@@ -1,7 +1,7 @@
 #!/bin/sh
 # ----------------------------------------------------------------------------
 # Apache Maven Wrapper startup script (Unix)
-#
+#..........
 # First-run behavior: this script will download the Maven Wrapper JAR
 # (~60KB) from Maven Central into .mvn/wrapper/ and then use it to download
 # the full Maven distribution..........
