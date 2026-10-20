@@ -4,7 +4,7 @@
 #
 # First-run behavior: this script will download the Maven Wrapper JAR
 # (~60KB) from Maven Central into .mvn/wrapper/ and then use it to download
-# the full Maven distribution.
+# the full Maven distribution..........
 #
 # Required: Java 17 or newer on PATH (or JAVA_HOME set).......
 # ----------------------------------------------------------------------------
