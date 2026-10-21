@@ -6,7 +6,7 @@ This repo is the ****server side** of that system, plus a software simulator of 
 
 ---
 
-## Table of Contents
+#### Table of Contents
 
 1. [What this demo proves](#what-this-demo-proves)
 2. [How to run it](#how-to-run-it)
