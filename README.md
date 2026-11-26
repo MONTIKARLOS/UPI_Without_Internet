@@ -1,4 +1,4 @@
-wefwefwefefewfefef UPI Offline Mesh.   
+wefewfewfewfewfewefwefwefefewfefef UPI Offline Mesh.   
 
 A Spring Boot backend that demonstrates **offline UPI payments routed through a Bluetooth-style mesh network**. You're in a basement with zero connectivity. You send your friend ₹500. Your phone encrypts the payment, broadcasts it to nearby phones, and the packet hops device-to-device until *some* phone walks outside, gets 4G, and silently uploads it to this backend. The backend decrypts, deduplicates, and settles.
 
@@ -11,7 +11,7 @@ This repo is the ****server side** of that system, plus a software simulator of 
 1. [What this demo proves](#what-this-demo-proves)
 2. [How to run it](#how-to-run-it)
 3. [The demo flow (step by step)](#the-demo-flow-step-by-step)
-4. [Architecture](#architecture)
+4. [Architecture](#architecture)we
 5. [The three hard problems and how they're solved](#the-three-hard-problems-and-how-theyre-solved)
 6. [File-by-file walkthrough](#file-by-file-walkthrough)
 7. [API reference](#api-reference)
